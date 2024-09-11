@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <a href="https://wa.me/5521987795606">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
@@ -18,11 +18,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lfsantos91/lfsantos91/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
